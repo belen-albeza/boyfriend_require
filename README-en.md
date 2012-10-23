@@ -40,7 +40,7 @@ Preferences
    circumstances may be.
 1. Someone who can share in doing housework/chores.
 1. Someone who does not force their beliefs on other people.
-1. Someone who treats women equally.
+1. Someone who treats women equally. (Required)
 1. Someone who can be open about money and how they earn a living.
 1. Someone who sympathizes with the work of Peter Drucker and who
    has adopted some of his "seven principles".
